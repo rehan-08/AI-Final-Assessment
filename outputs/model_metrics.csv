@@ -1,0 +1,6 @@
+,R2,MAE,RMSE
+Linear reg - train,0.27,1.104,1.48
+Linear reg - test (random 20%),0.182,1.123,1.517
+Baseline (mean) - test,-0.153,1.44,1.801
+Linear reg - 5-fold CV (mean),0.204,1.14,1.523
+Linear reg - time split (2011),0.245,1.195,1.579

@@ -1,0 +1,4 @@
+pair,agreement,cohen_kappa
+Transformer (final) vs VADER,0.429,0.173
+Transformer (final) vs TextBlob,0.522,0.238
+VADER vs TextBlob,0.653,0.355

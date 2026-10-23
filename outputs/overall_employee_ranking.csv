@@ -1,0 +1,11 @@
+employee,total_score,avg_monthly_score,months_active,times_top3_positive,times_top3_negative
+johnny.palmer@enron.com,51,2.125,24,8,6
+sally.beck@enron.com,49,2.0416666666666665,24,8,4
+lydia.delgado@enron.com,48,2.0,24,9,2
+eric.bass@enron.com,43,1.7916666666666667,24,10,4
+bobette.riner@ipgdirect.com,37,1.5416666666666667,24,13,8
+kayne.coulter@enron.com,29,1.2083333333333333,24,8,11
+patti.thompson@enron.com,29,1.2083333333333333,24,5,6
+don.baughman@enron.com,25,1.0416666666666667,24,4,12
+john.arnold@enron.com,22,0.9166666666666666,24,6,11
+rhonda.denton@enron.com,16,0.6666666666666666,24,1,8

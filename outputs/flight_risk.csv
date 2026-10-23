@@ -1,0 +1,11 @@
+employee,total_negative,max_negatives_in_30d,peak_window_start,peak_window_end,first_flagged_on,flight_risk
+john.arnold@enron.com,21,4,2010-06-06,2010-06-21,2010-06-21,True
+patti.thompson@enron.com,17,4,2010-10-04,2010-10-29,2010-10-29,True
+rhonda.denton@enron.com,11,4,2010-12-24,2011-01-01,2011-01-01,True
+bobette.riner@ipgdirect.com,19,3,2010-08-26,2010-09-16,,False
+lydia.delgado@enron.com,17,3,2011-04-16,2011-05-04,,False
+don.baughman@enron.com,10,2,2010-04-13,2010-05-03,,False
+eric.bass@enron.com,8,2,2011-05-17,2011-06-09,,False
+johnny.palmer@enron.com,11,2,2010-02-09,2010-03-10,,False
+kayne.coulter@enron.com,11,2,2010-12-31,2011-01-07,,False
+sally.beck@enron.com,13,2,2010-01-23,2010-02-15,,False
